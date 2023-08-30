@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ws_2056100433_TR"
+name="Better Piracy - TR Patch"
+author="EPME - Eternal Prometheus Mod Ekibi"
+version="1300"
+date="2020-05-29"
+save="false"
+enabled="1">
+<text language=""
+description="
+EPME - Eternal Prometheus Mod Ekibi tarafından Türkçeleştirilmiştir.&#13;&#10; 
+X4 Foundations için korsanlığı geliştiren bir mod.&#13;&#10;
+"/>
+<dependency id="ws_2056100433" optional="false" name="Better piracy"/>
+</content>

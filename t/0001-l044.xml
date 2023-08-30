@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Belirli bir dil dosyası: Sadece İngilizce için geçerlidir -->
+<diff>
+  <!-- Tehdit edici ifadeler -->
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5050']"><t id="5050">Taciz Et</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5051']"><t id="5051">Doğrudan bir hedefi taciz et veya bir taciz operasyonunu destekle.</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5052']"><t id="5052">Korsan</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5053']"><t id="5053">Bir korsan çetesiyle sektördeki gemilere taciz emri verin.</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5054']"><t id="5054">S boyutlu gemilere hedef olun: </t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5055']"><t id="5055">M boyutlu gemilere hedef olun: </t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5056']"><t id="5056">Savaş gemilerine hedef olun: </t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5057']"><t id="5057">Tüccar gemilerine hedef olun: </t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5058']"><t id="5058">Madencilik gemilerine hedef olun: </t></replace>
+  <!-- Taciz göreviyle ilgili metinler -->
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5100']"><t id="5100">Taciz Et</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5101']"><t id="5101">(Harass mission title)Taciz Operasyonu </t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5102']"><t id="5102">(Harass mission description)Taciz operasyonuna yardım edin. </t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5103']"><t id="5103">(Increase pressure objective)Baskıyı artır </t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5104']"><t id="5104">(Maintain pressure objective)Baskıyı sürdür </t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5105']"><t id="5105">(Damage shields)Kalkanlarını vur </t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5106']"><t id="5106">(Damage hull)Gemi gövdesine zarar ver </t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5107']"><t id="5107">(Approach)Hedefe yaklaş </t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5108']"><t id="5108">(Keep pressing)Hedefi öldürme! </t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5109']"><t id="5109">(Claim)Gemi terk edilmiş </t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5110']"><t id="5110">(Board)Bir baskın operasyonu başlat </t></replace>
+  <!-- Yapılandırma ile ilgili metinler -->
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5150']"><t id="5150">(Menu category)Daha İyi Korsanlık</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5151']"><t id="5151">(Harass shield threshold name)Taciz için kalkan eşiği</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5152']"><t id="5152">(Harass shield threshold mouseover)Bir "Taciz" operasyonu sırasında, hedefin kalkanlarının yüzdesi bu değerden büyükse, operasyon "Kalkanlarını vur" aşamasına geri dönecektir.\n\nAyrıca, "Kalkanlarını vur" aşaması bu değerin %10 altında tamamlanır.</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5153']"><t id="5153">(Early harass hull threshold name)Erken taciz gövde eşiği</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5154']"><t id="5154">(Early harass hull threshold mouseover)Bir "Taciz" operasyonunun erken aşamalarında, hedefin gövde yüzdesi bu değerden büyükse, operasyon "Gemi gövdesine zarar ver" aşamasına geri dönecektir.</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5155']"><t id="5155">(Harass bail attemps before mid name)Orta taciz gövde eşiği</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5156']"><t id="5156">(Harass bail attemps before mid mouseover) Bir sonraki fare üzerine gelmeden önce saldırganlık için firar denemesi yapın: Bu kadar firar kontrolü yapıldıktan sonra, "Erken saldırı gövdesi eşiği" yerine "Orta saldırı gövdesi eşiği" belirtilen olacaktır.</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5157']"><t id="5157">(Mid harass hull threshold name) Orta saldırı gövdesi eşiği</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5158']"><t id="5158">(Mid harass hull threshold mouseover) Bir "Saldırı" işleminin orta aşamalarında, hedefin gövdesinin yüzdesi bu değerden büyükse, işlem "Onların gövdesine zarar verme" aşamasına geri dönecektir.</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5159']"><t id="5159">(Harass bail attemps before late name) Geç saldırı için firar denemesi yapın</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5160']"><t id="5160">(Harass bail attemps before late mouseover) Bu kadar firar kontrolü yapıldıktan sonra, "Orta saldırı gövdesi eşiği" yerine "Geç saldırı gövdesi eşiği" belirtilen olacaktır.</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5161']"><t id="5161">(Late harass hull threshold name) Geç saldırı gövdesi eşiği</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5162']"><t id="5162">(Late harass hull threshold mouseover) Bir "Saldırı" işleminin geç aşamalarında, hedefin gövdesinin yüzdesi bu değerden büyükse, işlem "Onların gövdesine zarar verme" aşamasına geri dönecektir.</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5163']"><t id="5163">(Keep pressure timer name) Baskıyı sürdürme zamanlayıcısı</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5164']"><t id="5164">(Keep pressure timer mouseover) Bir "Saldırı" işlemi sırasında, her "Baskıyı sürdürme" kontrolünün ne kadar süre gerektirdiği. Her döngüden sonra bir firar denemesi tetiklenir ve pilota bir "Baskı" puanı eklenir.</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5165']"><t id="5165">(Keep pressure max distance - S/M name) Baskıyı sürdürme maksimum mesafe - S/M</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5166']"><t id="5166">(Keep pressure max distance - S/M mouseover) Bir S/M boyutlu gemiye karşı yapılan bir "Saldırı" işlemi sırasında, "Baskıyı sürdürme" sadece bu mesafeden daha yakınsanız ilerleyecektir. Eğer daha uzağınızdaysanız, işlem "Hedefinizi takip etme" aşamasına geri dönecektir.</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5167']"><t id="5167">(Keep pressure max distance - L/XL name) Baskıyı sürdürme maksimum mesafe - L/XL</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5168']"><t id="5168">(Keep pressure max distance - L/XL mouseover) Bir L/XL boyutlu gemiye karşı yapılan bir "Saldırı" işlemi sırasında, "Baskıyı sürdürme" sadece bu mesafeden daha yakınsanız ilerleyecektir. Eğer daha uzağınızdaysanız, işlem "Hedefinizi takip etme" aşamasına geri dönecektir.</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5169']"><t id="5169">(Pressure build-up rate name) Baskı oluşturma hızı</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5170']"><t id="5170">(Pressure build-up rate mouseover) Her "Baskı" puanının hedef pilotun moralini nasıl baltaladığı. Her "Baskıyı sürdürme" döngüsünden sonra bir baskı puanı eklenir.</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5171']"><t id="5171">(Harass L/XL min crew left - Base name) Saldırı L/XL için min mürettebat - Temel</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5172']"><t id="5172">(Harass L/XL min crew left - Base mouseover) Bir L/XL boyutlu gemiye karşı yapılan bir "Saldırı" işlemi sırasında, mevcut mürettebat yüzdesi bu değerin altındaysa, işlem "Bordoya geçme" aşamasına ilerleyecektir.</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5173']"><t id="5173">(Harass L/XL min crew left - Pilot name) Saldırı L/XL için min mürettebat - Pilot</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5174']"><t id="5174">(Harass L/XL min crew left - Pilot mouseover) Pilot moraline bağlı olarak "Saldırı L/XL min mürettebat - Temel" değerine eklenecek yüzde, 5 yıldızlı bir pilot belirtilen değerin %100'ünü eklerken, 0 yıldızlı bir pilot hiçbir şey eklemez. "Baskı" puanları BUNU etkilemez.</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5175']"><t id="5175">(Harass base bail chance name) Saldırı temel firar olasılığı</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5176']"><t id="5176">(Harass base bail chance mouseover) Fare denemelerinin en iyi durumda geçeceği olasılık yüzdesi. Pilot moraline göre azaltılacaktır, vb. gibi faktörlerle.</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5177']"><t id="5177">(Harass base bail number name) Saldırı temel firar sayısı</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5178']"><t id="5178">(Harass base bail number mouseover) Fare denemelerinden birinin geçmesi durumunda, mevcut mürettebatın en iyi durumda kaç yüzde kaçının kaçacağı. Pilot moraline göre azaltılacaktır, vb. gibi faktörlerle.</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5179']"><t id="5179">(Harass reputation hit name) Saldırı itibar etkisi</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5180']"><t id="5180">(Harass reputation hit mouseover) Etkinleştirildiğinde, başarılı "Saldırı" işlemleri, pilotun fraksiyonla itibarını azaltacaktır. Bunu belirlemek için uygulanan mantık, bir L/XL gemisine biniyormuş gibi aynıdır.</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5181']"><t id="5181">(Harass bailing pilots damage hull name) Saldırıdan kaçan pilotların hasar verdiği gövde</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5182']"><t id="5182">(Harass bailing pilots damage hull mouseover) Etkinleştirildiğinde, başarılı "Saldırı" işlemlerinden sonra kaçan pilot gemiyi daha fazla hasar verecektir. Verilen hasar, pilota bağlıdır.</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5183']"><t id="5183">(Harass bailing pilots destroy components name) Saldırıdan kaçan pilotların bileşenleri yok ettiği</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5184']"><t id="5184">(Harass bailing pilots destroy components mouseover) Etkinleştirildiğinde, başarılı "Saldırı" işlemlerinden sonra kaçan pilot bazı gemi bileşenlerini yok edecektir. Yok edilen bileşen sayısı, pilota bağlıdır, ancak kalkanlar asla yok edilmez.</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5185']"><t id="5185">(Combat base bail chance name) Savaş temel firar olasılığı</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5186']"><t id="5186">(Combat base bail chance mouseover) Fare denemelerinin en iyi durumda geçeceği olasılık yüzdesi. Pilot moraline göre azaltılacaktır, vb. gibi faktörlerle.</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5187']"><t id="5187">(Combat reputation hit name) Savaş itibar etkisi</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5188']"><t id="5188">(Combat reputation hit mouseover) Etkinleştirildiğinde, bir hedefe saldırarak onu fare yapana kadar ateş etmek, pilotun fraksiyonla itibarını azaltacaktır. Bunu belirlemek için uygulanan mantık, bir L/XL gemisine biniyormuş gibi aynıdır.</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5189']"><t id="5189">(Combat bailing pilots damage hull name) Savaştan kaçan pilotların hasar verdiği gövde</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5190']"><t id="5190">(Combat bailing pilots damage hull mouseover) Etkinleştirildiğinde, bir hedefe saldırarak onu fare yapana kadar ateş etmek, kaçan pilot gemiyi daha fazla hasar verecektir. Verilen hasar, pilota bağlıdır.</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5191']"><t id="5191">(Combat bailing pilots destroy components name) Savaştan kaçan pilotların bileşenleri yok ettiği</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61537']/t[@id='5192']"><t id="5192">(Combat bailing pilots destroy components mouseover) Etkinleştirildiğinde, bir hedefe saldırarak onu fare yapana kadar ateş etmek, kaçan pilot bazı gemi bileşenlerini yok edecektir. Yok edilen bileşen sayısı, pilota bağlıdır.</t></replace>
+  <!-- Tehdit edici ifadeler -->
+  <replace sel="//language[@id='44']/page[@id='61538']/t[@id='4401']"><t id="4401">Savaş bitti, geminizi derhal terk edin!</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61538']/t[@id='4402']"><t id="4402">Sadece gemiyle ilgileniyoruz. Kolaylaştırın ve şimdi teslim olun!</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61538']/t[@id='4403']"><t id="4403">Şimdi sadece iki seçeneğiniz var, teslim olun ya da ölmeye hazırlanın!</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61538']/t[@id='4404']"><t id="4404">Gemiye biniyoruz. İçeride olmak istemezsiniz!</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61538']/t[@id='4405']"><t id="4405">Şansınız yok, akıllı olun ve teslim olun.</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61538']/t[@id='4406']"><t id="4406">Gerçekten ölmeye istekli misiniz? Hayır mı? O zaman gemiden çıkın!</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61538']/t[@id='4407']"><t id="4407">Gemiyle çıkmayacaksınız, ama hala canlı çıkabilirsiniz.</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61538']/t[@id='4408']"><t id="4408">Zaten cesaretinizi kanıtladınız, şimdi bilgeliğinizi kanıtlayın ve teslim olun!</t></replace>
+  <replace sel="//language[@id='44']/page[@id='61538']/t[@id='4409']"><t id="4409">İnatçılığınız sizi öldürecek. Şimdi teslim olun!</t></replace>
+</diff>
